@@ -1,0 +1,2 @@
+# dynmap
+dynmap hex
